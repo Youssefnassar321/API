@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|c:\\users\\mti\\desktop\\.net track\\web api mongo\\webapplication2\\webapplication2\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|c:\\users\\mti\\desktop\\.net track\\web api mongo\\webapplication2\\webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|c:\\users\\mti\\desktop\\.net track\\web api mongo\\webapplication2\\webapplication2\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|c:\\users\\mti\\desktop\\.net track\\web api mongo\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|c:\\users\\mti\\desktop\\.net track\\web api mongo\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|c:\\users\\mti\\desktop\\.net track\\web api mongo\\webapplication2\\webapplication2\\classes\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7187EB-5B36-4B8C-BFFF-87ABA5C13190}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\classes\\employeeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:02:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T13:42:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeClass.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Classes\\EmployeeClass.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Classes\\EmployeeClass.cs",
+              "ToolTip": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Classes\\EmployeeClass.cs",
+              "RelativeToolTip": "WebApplication2\\Classes\\EmployeeClass.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:10:07.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:09:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Classes\\Connection.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Classes\\Connection.cs",
+              "ToolTip": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Classes\\Connection.cs",
+              "RelativeToolTip": "WebApplication2\\Classes\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:05:47.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\MTI\\Desktop\\.Net Track\\Web Api Mongo\\WebApplication2\\WebApplication2\\Model\\Employee.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:46:49.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
